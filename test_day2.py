@@ -2,7 +2,7 @@ import unittest
 from day2 import *
 import random
 
-class Test_test_python_day1(unittest.TestCase):
+class Test_python(unittest.TestCase):
 
     def test_sockMerchant(self):
 
