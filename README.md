@@ -13,7 +13,7 @@ ar: the colors of each sock
 
 
 # Running the tests
-You can run all the tests for an exercise by entering the following in your
+You can run all the tests for this exercise by entering the following in your
 terminal:
 
 ```sh
